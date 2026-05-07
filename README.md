@@ -1,5 +1,6 @@
 # cheat-detection-ml
-Machine-learning-based behaviour cheat detection in online multiplayer games
+Machine-learning-based behaviour cheat detection in online multiplayer games.
+
 A final‑year project investigating whether machine‑learning models can detect cheating behaviour in online multiplayer games using gameplay event data.
 
 
